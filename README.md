@@ -1,6 +1,6 @@
 ### Description
 
-A simple portfolio template for developer/designers built with React. 
+I built a responsive website using a React template from GitHub, customizing it with unique content, styles, and features. It offers smooth navigation, a clean UI, and works well on all devices. Tech stack: React, JavaScript, HTML, and CSS 
 
 ### [live preview](https://ubaimutl.github.io/react-portfolio/)
 
